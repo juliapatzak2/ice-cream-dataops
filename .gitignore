@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Cognite ToolKit
+function_local_venvs/
+build_info.*.yaml
+
